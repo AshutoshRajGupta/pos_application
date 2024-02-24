@@ -25,6 +25,18 @@ Point of Sale (POS) application built using the MERN stack (MongoDB, Express.js,
   - Axios for handling HTTP requests
   - bcryptjs for password hashing
 
+## Screenshots
+
+![1708780170883](image/README/1708780170883.png)
+
+![1708780195961](image/README/1708780195961.png)
+
+![1708780235300](image/README/1708780235300.png)
+
+![1708780256197](image/README/1708780256197.png)
+
+![1708780295635](image/README/1708780295635.png)
+
 ## Usage
 
 1. Register a new user account or login with existing credentials.
